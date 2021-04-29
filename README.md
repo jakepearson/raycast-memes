@@ -1,6 +1,8 @@
 # Raycast Memes
 
-Sometimes you need a meme and you need it fast. If you are using [Raycast](https://raycast.com/) (which I reccomend over [Alfred](https://www.alfredapp.com/)), you can install these scripts to put a custom meme image in your clipboard.
+Sometimes you need a meme and you need it fast. If you are using [Raycast](https://raycast.com/) (which I recommend over [Alfred](https://www.alfredapp.com/)), you can install these scripts to put a custom meme image in your clipboard.
+
+![Raycast](images/raycast.png)
 
 ## Setup
 
